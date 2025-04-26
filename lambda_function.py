@@ -1,4 +1,4 @@
-# importing the libraries
+# importing the python libraries
 import awswrangler as wr
 import pandas as pd
 import urllib.parse
